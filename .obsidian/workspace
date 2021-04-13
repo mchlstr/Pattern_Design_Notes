@@ -7,11 +7,8 @@
         "id": "2d408312e188321d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Purpose of Patterns/Structural Patterns.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Purpose of Patterns/Structural Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,7 @@
   },
   "active": "2d408312e188321d",
   "lastOpenFiles": [
+    "Scope of Patters/Object Patterns.md",
     "Purpose of Patterns/Structural Patterns.md",
     "Pasted image 20210413153426.png",
     "Creational Patterns/Builder.md",
@@ -96,7 +93,6 @@
     "Behavioral Patterns/Visitor.md",
     "Behavioral Patterns/Template Method.md",
     "Behavioral Patterns/Strategy.md",
-    "Behavioral Patterns/State.md",
-    "Behavioral Patterns/Observer.md"
+    "Behavioral Patterns/State.md"
   ]
 }
